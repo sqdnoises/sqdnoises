@@ -25,4 +25,4 @@ and little bits of HTML, CSS and JavaScript.
 [![avatar-generator](https://github-readme-stats.vercel.app/api/pin/?username=SqdNoises&repo=avatar-generator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/SqdNoises/avatar-generator)
 
 ### My Contributions
-[![agent](https://github-readme-stats.vercel.app/api/pin/?username=1nterp&repo=agent&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/1nterp/agent)
+[![agent](https://github-readme-stats.vercel.app/api/pin/?username=1nter-p&repo=agent&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/1nter-p/agent)

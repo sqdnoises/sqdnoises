@@ -11,7 +11,7 @@ and little bits of HTML, CSS and JavaScript.
 
 ### [Check out Ahuri on GitHub](https://github.com/ahuri-app)!
 #### Ahuri Repositories
-[![helper](https://github-readme-stats.vercel.app/api/pin/?username=ahuri-app&repo=helper&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ahuri-app/helper)
+[![helper](https://github-readme-stats.vercel.app/api/pin/?username=ahuri-app&repo=helper&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/ahuri-app/helper)
 
 ---
 
@@ -25,4 +25,4 @@ and little bits of HTML, CSS and JavaScript.
 [![avatar-generator](https://github-readme-stats.vercel.app/api/pin/?username=SqdNoises&repo=avatar-generator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/SqdNoises/avatar-generator)
 
 ### My Contributions
-[![agent](https://github-readme-stats.vercel.app/api/pin/?username=1nter-p&repo=agent&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/1nter-p/agent)
+[![agent](https://github-readme-stats.vercel.app/api/pin/?username=1nter-p&repo=agent&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/1nter-p/agent)

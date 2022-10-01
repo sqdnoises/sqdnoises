@@ -16,13 +16,11 @@ and little bits of HTML, CSS and JavaScript.
 ---
 
 ### My GitHub Statistics
-![SqdNoises's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SqdNoises&count_private=true&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![SqdNoises's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqdnoises&count_private=true&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ### My Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SqdNoises&layout=compact&langs_count=10&hide=css&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/SqdNoises)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sqdnoises&layout=compact&langs_count=10&hide=css&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/SqdNoises)
 
 ### My Repositories
-[![avatar-generator](https://github-readme-stats.vercel.app/api/pin/?username=SqdNoises&repo=avatar-generator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/SqdNoises/avatar-generator)
-
-### My Contributions
-[![agent](https://github-readme-stats.vercel.app/api/pin/?username=1nter-p&repo=agent&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/1nter-p/agent)
+[![avatar-generator](https://github-readme-stats.vercel.app/api/pin/?username=sqdnoises&repo=avatar-generator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/sqdnoises/avatar-generator)
+[![avatar-generator](https://github-readme-stats.vercel.app/api/pin/?username=sqdnoises&repo=PyVid-simple&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/sqdnoises/PyVid-simple)

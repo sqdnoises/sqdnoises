@@ -23,4 +23,4 @@ and little bits of HTML, CSS and JavaScript.
 
 ### My Repositories
 [![avatar-generator](https://github-readme-stats.vercel.app/api/pin/?username=sqdnoises&repo=avatar-generator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/sqdnoises/avatar-generator)
-[![avatar-generator](https://github-readme-stats.vercel.app/api/pin/?username=sqdnoises&repo=PyVid-simple&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/sqdnoises/PyVid-simple)
+[![PyVid-simple](https://github-readme-stats.vercel.app/api/pin/?username=sqdnoises&repo=PyVid-simple&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/sqdnoises/PyVid-simple)

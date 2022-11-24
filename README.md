@@ -11,8 +11,9 @@ and little bits of HTML, CSS and JavaScript.
 
 ### [Check out Ahuri on GitHub](https://github.com/ahuri-app)!
 #### Ahuri Repositories
+[![ahuri-cli](https://github-readme-stats.vercel.app/api/pin/?username=ahuri-app&repo=ahuri-cli&show_owner=true)](https://github.com/ahuri-app/ahuri-cli)
+[![backend](https://github-readme-stats.vercel.app/api/pin/?username=ahuri-app&repo=backend&show_owner=true)](https://github.com/ahuri-app/backend)
 [![helper](https://github-readme-stats.vercel.app/api/pin/?username=ahuri-app&repo=helper&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/ahuri-app/helper)
-[![leveller](https://github-readme-stats.vercel.app/api/pin/?username=ahuri-app&repo=leveller&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/ahuri-app/leveller)
 
 ---
 

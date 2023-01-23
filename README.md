@@ -1,20 +1,6 @@
 # SqdNoises
-![Ahuri](https://img.shields.io/static/v1?label=Founder%20of&message=Ahuri&color=01b3a1&style=flat&labelColor=009485)
-<br>
-Hiya! I'm **Sqd**, Founder of [Ahuri](http://18.169.99.65/).
-
-I know [Python](https://python.org)
-<br>
-and little bits of HTML, CSS and JavaScript.
-
----
-
-### [Check out Ahuri on GitHub](https://github.com/ahuri-app)!
-#### Ahuri Repositories
-[![ahuri-cli](https://github-readme-stats.vercel.app/api/pin/?username=ahuri-app&repo=ahuri-cli&show_owner=true)](https://github.com/ahuri-app/ahuri-cli)
-[![backend](https://github-readme-stats.vercel.app/api/pin/?username=ahuri-app&repo=backend&show_owner=true)](https://github.com/ahuri-app/backend)
-[![helper](https://github-readme-stats.vercel.app/api/pin/?username=ahuri-app&repo=helper&show_owner=true)](https://github.com/ahuri-app/helper)
-
+Hiya! I'm **Sqd**.
+I'm experienced in only one programming language -- [Python](https://python.org).
 ---
 
 ### My GitHub Statistics

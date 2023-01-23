@@ -1,7 +1,6 @@
 # SqdNoises
 Hiya! I'm **Sqd**.
 I'm experienced in only one programming language -- [Python](https://python.org).
----
 
 ### My GitHub Statistics
 ![SqdNoises's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqdnoises&count_private=true&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)

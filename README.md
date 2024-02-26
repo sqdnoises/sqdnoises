@@ -1,7 +1,7 @@
 # Hiya! I'm **Sqd**.
-Welcome to my **really epic** GitHub profile.\
+Welcome to my **really epic** GitHub profile!\
 I code mainly in **Python <img src="https://python.org/favicon.ico" alt="Python" height="12">**.\
-I make discord bots and fun little projects.
+I make discord bots, fun little projects and just mess around with some code. 🙃
 
 Connect with me on Discord:\
 [![](https://discord.c99.nl/widget/theme-1/1077982815070728223.png)](https://discord.com/users/1077982815070728223)\

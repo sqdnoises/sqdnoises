@@ -73,7 +73,7 @@ I see this as a trend among many github profiles, so I guess I should have one a
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)\
-**NOTE:** Everything from the list above mentions what I've done before, it does not mean that I'm perfect at it, but I do have experience in it.
+**NOTE:** *Everything from the list above mentions what I've done before, it does not mean that I'm perfect at it, but I do have experience in it.*
 <!--![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)-->
 
 <!-- planning to make every button clickable

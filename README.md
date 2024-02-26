@@ -9,7 +9,7 @@ Connect with me on Discord:\
 
 ### I'm really good in
 - **Discord - joined ~~since i was out the womb with a keyboard and mouse~~ at 2018**
-  - i now have a vast knowledge and how it works
+  - i have a vast knowledge about discord and how most of the things work
   - i can also make really good discord servers
 - **Python - been at it since ~~i came out of my mama~~ 2021**
   - superb at it

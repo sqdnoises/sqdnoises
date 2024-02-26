@@ -27,6 +27,7 @@ Connect with me on Discord:\
 \
 I'm just a student who loves to code who is currently trying to learn more and expand his knowledge and abilities even more.
 <br>
+<br>
 
 ### List of technologies 💯💯💯💯
 I see this as a trend among many github profiles, so I guess I should have one aswell because LISTS ARE COOL!!1!11 💯💯😎😎\

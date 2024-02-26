@@ -18,7 +18,7 @@ Connect with me on Discord:\
 - **discord.py - been at it since 2021**
   - i know almost everything in it
   - i can make a full-fledged discord bot with any features you might need
-    - (excluding dashboards)
+    - (excluding dashboards *for now, planning to learn soon*)
 - **Backend using python - been at it since 2022**
   - not so good but i can make simple http servers which let anyone control a particular app
 - **SQLite database handling - been at it since 2023**

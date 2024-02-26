@@ -1,6 +1,6 @@
 # SqdNoises
 Hiya! I'm **Sqd**.\
-I code in **Python <img src="https://python.org/favicon.ico" alt="Python" height="12">**.\
+I code mainly in **Python <img src="https://python.org/favicon.ico" alt="Python" height="12">**.\
 I make discord bots and fun little projects.
 
 Connect with me on Discord:\
@@ -75,6 +75,9 @@ I see this as a trend among many github profiles, so I guess I should have one a
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)\
 **NOTE:** Everything from the list above mentions what I've done before, it does not mean that I'm perfect at it, but I do have experience in it.
 <!--![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)-->
+
+<!-- planning to make every button clickable
+> *yes every button is clickable*-->
 
 ---
 

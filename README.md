@@ -1,13 +1,14 @@
-# SqdNoises
-Hiya! I'm **Sqd**.\
+# Hiya! I'm **Sqd**.
+Welcome to my **really epic** GitHub profile.\
 I code mainly in **Python <img src="https://python.org/favicon.ico" alt="Python" height="12">**.\
 I make discord bots and fun little projects.
 
 Connect with me on Discord:\
 [![](https://discord.c99.nl/widget/theme-1/1077982815070728223.png)](https://discord.com/users/1077982815070728223)\
 **Username:** `@sqd.`
+<details>
+<summary><strong>I'm really good in</strong></summary>
 
-### I'm really good in
 - **Discord - joined ~~since i was out the womb with a keyboard and mouse~~ at 2018**
   - i have a vast knowledge about discord and how most of the things work
   - i can also make really good discord servers
@@ -23,6 +24,8 @@ Connect with me on Discord:\
   - not so good but i can make simple http servers which let anyone control a particular app
 - **SQLite database handling - been at it since 2023**
   - still learning how SQL databases work but i believe i know a pretty good chunk of it
+
+</details>
 
 \
 I'm just a student who loves to code who is currently trying to learn more and expand his knowledge and abilities even more.
@@ -85,3 +88,9 @@ I see this as a trend among many github profiles, so I guess I should have one a
 | Overall Statistics | Top Languages (according to my public repositories) |
 | ----------- | ----------- |
 | [![SqdNoises's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqdnoises&count_private=true&show_icons=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000)](https://github.com/sqdnoises) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sqdnoises&layout=compact&langs_count=10&hide=css&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000)](https://github.com/SqdNoises) |
+
+<div align="center">
+
+### Follow and star my repositories and show some love 💖
+
+</div>

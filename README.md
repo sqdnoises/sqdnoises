@@ -95,6 +95,6 @@ I see this as a trend among many github profiles, so I guess I should have one a
 
 <div align="center">
 
-### Follow and star my repositories and show some love 💖
+### Follow me and star my repositories and show some love 💖
 
 </div>

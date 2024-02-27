@@ -24,6 +24,9 @@ Connect with me on Discord:\
   - not so good but i can make simple http servers which let anyone control a particular app
 - **SQLite database handling - been at it since 2023**
   - still learning how SQL databases work but i believe i know a pretty good chunk of it
+- **Using AI services like Gemini or ChatGPT - been at it since 2023**
+  - pretty good at making AI chatbots
+  - i have also made a discord Clyde alternative
 
 </details>
 

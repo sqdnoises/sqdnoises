@@ -94,8 +94,12 @@ I see this as a trend among many github profiles, so I guess I should have one a
 | ----------- | ----------- |
 | [![SqdNoises's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqdnoises&count_private=true&show_icons=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000)](https://github.com/sqdnoises) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sqdnoises&layout=compact&langs_count=10&hide=css&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000)](https://github.com/SqdNoises) |
 
+<!--
+### Public Repositories
+-->
+
 <div align="center">
 
-### Follow me and star my repositories and show some love 💖
+### <img src="profile picture.png" height=16> Follow me and star my repositories and show some love 💖
 
 </div>

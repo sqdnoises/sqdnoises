@@ -103,3 +103,8 @@ I see this as a trend among many github profiles, so I guess I should have one a
 ### <img src="profile picture.png" height=16> Follow me and star my repositories and show some love 💖
 
 </div>
+
+---
+> *for the people that saw my location under my profile,*
+\
+> *yes i do live there and rent free without even him realising someone else lives with him 😂🤑*

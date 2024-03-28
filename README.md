@@ -9,22 +9,22 @@ Connect with me on Discord:\
 <details>
 <summary><strong>I'm really good in</strong></summary>
 
-- **Discord - joined ~~since i was out the womb with a keyboard and mouse~~ at 2018**
+- **Discord - joined at 2018**
   - i have a vast knowledge about discord and how most of the things work
   - i can also make really good discord servers
-- **Python - been at it since ~~i came out of my mama~~ 2021**
+- **Python - since 2021**
   - superb at it
   - i can make fully functional cli apps aswell
   - ~~my first words were hello world don't mess~~
-- **discord.py - been at it since 2021**
+- **discord.py - since 2021**
   - i know almost everything in it
   - i can make a full-fledged discord bot with any features you might need
     - (excluding dashboards *for now, planning to learn soon*)
-- **Backend using python - been at it since 2022**
+- **Backend using python - since 2022**
   - not so good but i can make simple http servers which let anyone control a particular app
-- **SQLite database handling - been at it since 2023**
+- **SQLite database handling - since 2023**
   - still learning how SQL databases work but i believe i know a pretty good chunk of it
-- **Using AI services like Gemini or ChatGPT - been at it since 2023**
+- **Using AI services like Gemini or OpenAI's GPT - since 2023**
   - pretty good at making AI chatbots
   - i have also made a discord Clyde alternative
 
@@ -89,14 +89,14 @@ I see this as a trend among many github profiles, so I guess I should have one a
 
 ---
 
+### Public Repositories
+
+[![infinite-craft](https://github-readme-stats.vercel.app/api/pin/?username=sqdnoises&repo=infinite-craft&show_owner=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000)](https://github.com/sqdnoises/infinite-craft)
+
 ### My Github Statistics
 | Overall Statistics | Top Languages (according to my public repositories) |
 | ----------- | ----------- |
 | [![SqdNoises's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqdnoises&count_private=true&show_icons=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000)](https://github.com/sqdnoises) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sqdnoises&layout=compact&langs_count=10&hide=css&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000)](https://github.com/SqdNoises) |
-
-<!--
-### Public Repositories
--->
 
 <div align="center">
 

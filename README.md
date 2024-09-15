@@ -78,7 +78,7 @@ I see this as a trend among many github profiles, so I guess I should have one a
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 <details>
-<summary><strong>Categorised List</strong></summary>
+<summary><strong>Categorised list 📃</strong></summary>
 
 #### Programming & Other Languages
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)

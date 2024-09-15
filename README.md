@@ -1,4 +1,4 @@
-# Hi! I'm <img src="profile picture.png" height=26> sqd. 🙋‍♂️
+# Hi! I'm sqd. 🙋‍♂️
 Welcome to my GitHub profile!\
 I code mainly in **Python <img src="https://python.org/favicon.ico" alt="Python" height="12">**.\
 I make discord bots, fun little projects and just mess around with some code. 🙃

@@ -83,10 +83,10 @@ I see this as a trend among many github profiles, so I guess I should have one a
 #### Programming & Other Languages
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)\
-[![Markdown](https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black)](https://en.wikipedia.org/wiki/Markdown)
-[![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![Markdown](https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black)](https://en.wikipedia.org/wiki/Markdown)
 
 #### Databases
 [![SQLite3](https://img.shields.io/badge/SQLite3-003b57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)

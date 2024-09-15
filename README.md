@@ -6,7 +6,7 @@ I make discord bots, fun little projects and just mess around with some code. ðŸ
 Connect with me on Discord:\
 [![](https://discord.c99.nl/widget/theme-1/1077982815070728223.png)](https://discord.com/users/1077982815070728223)\
 **Username:** `@sqd.`\
-[![Discord Server](https://img.shields.io/badge/My_Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Discord Server](https://img.shields.io/badge/My_Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sAecE3YVEe)
 <details>
 <summary><strong>I'm really good in</strong></summary>
 

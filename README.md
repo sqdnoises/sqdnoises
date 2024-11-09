@@ -8,33 +8,46 @@ Connect with me on Discord:\
 **Username:** `@sqd.`\
 [![Discord Server](https://img.shields.io/badge/My_Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sAecE3YVEe)
 <details>
-<summary><strong>I'm really good in</strong></summary>
+<summary><strong>My Journey</strong></summary>
 
-- **Discord - joined at 2018**
-  - i have a vast knowledge about discord and how most of the things work
-  - i can also make really good discord servers
-- **Python - since 2021**
-  - superb at it
-  - i can make fully functional cli apps aswell
+- **Discord - joined in 2018**
+  - level: expert
+- **Python - started in 2021**
+  - level: advanced
+  - made many countless projects in python
   - ~~my first words were hello world don't mess~~
-- **discord.py - since 2021**
-  - i know almost everything in it
-  - i can make a full-fledged discord bot
-- **Backend using python - since 2022**
-  - i can make simple http api
-- **SQLite database handling - since 2023**
-  - good at basics
-  - not the best, but still learning
-- **Using AI services like Gemini or OpenAI's GPT - since 2023**
-  - pretty good at making AI chatbots
-  - i have also made a discord Clyde alternative which can chat like a human and recognise images
+- **discord.py - started in 2021**
+  - level: expert
+  - made many bots in discord.py
+- **backends in python - since 2022**
+  - level: beginner
+  - only made simple projects that require simple backends
+- **SQLite3 database handling - since 2023**
+  - level: beginner
+  - used in a few bots for storing user data
+- **AI services (OpenAI, Google AI Studio) - since 2023**
+  - level: intermediate
+  - created an discord AI chatbot like Clyde and some misc projects
+- **HTML, CSS, JS - since 2024**
+  - level: beginner
+  - currently learning
+
+Plans for future:
+- Learn how to make a website using a web framework
+- Make a good feature-rich website
+- Learn Java
+- Make a popular public discord bot
+- Learn mobile app development
+- Learn low-level languages
+- Contribute on other github repositories
+- Start doing leetcode
 
 </details>
 
-I'm just a student who loves to code who is currently trying to learn more and expand his knowledge and abilities even more.
+I'm just a student who loves to spend time on computers who is currently trying to learn more and expand their knowledge and abilities even more.
 
 ### List of technologies 💯💯💯💯
-I see this as a trend among many github profiles, so I guess I should have one aswell because LISTS ARE COOL!!1!11 💯💯😎😎\
+I added this because LISTS ARE COOL!!1!11 💯💯😎😎\
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
@@ -53,12 +66,10 @@ I see this as a trend among many github profiles, so I guess I should have one a
 [![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)](https://en.wikipedia.org/wiki/Android_(operating_system))
 [![Termux](https://img.shields.io/badge/Termux-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEABAMAAACuXLVVAAAAJ1BMVEUAAAD///+2trZJSUn6+vopKSnW1tbw8PCpqalXV1d5eXmEhISNjY1X/GgdAAABqklEQVR42u3bO0oDURiG4Y9IwFyao0ElWmjAPmBhHRQLK6v0Fi5AUtnpDtLZGnABcQdmZ1aeKQ6MxyGZf/jnfVbwkcs7CXNGAAAAAAAAAAAAAAAAABptOImWstCbhV8LmdjEAXcPstAJ0assdB/jgHuZeI8DjqeyMIwDRk8ycREXnMjEvHgJPmSh92ydgi9SQAoGpGAeIlJwRArGyuY0BYEUhLWykYJt2m9QCk5l4rpIwVIW+uYpeIsDDpTLVwr2ihS8yMSqQSk4Vy5SQApECrbrkxSQgv6MFIToW9lIgZym4EzZSIG8pmCtDP4G/P8tcPYhLL6Go6Xy+AqReYqrXIxcXY7Nf5AQgUrXYkd/TIhAgyLQ0l8CgQi0PAIrItDyCJjfv25QBMbK5+jWbbWb145u35ufZapwhMNXBCod4/EUAfOjXESACPwVge5VuemuI9AZ3ZZa7PpgcyeUu9laBAwGJBGoc0AaAYMByQMONQ5II2AxYJhEoLYBaQQMBiQRqHFAGgGTAZskArUNSB/3qz7gcNcPPA4m5S4FAAAAAAAAAAAAAAAAoMl+AKEiyH8NsNRmAAAAAElFTkSuQmCC&logoColor=black)](https://github.com/termux/termux-app)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![SSH](https://img.shields.io/badge/SSH-black?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Secure_Shell)
 [![GitHub](https://img.shields.io/badge/github-010409?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitHub Actions](https://img.shields.io/badge/github_actions-010409?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![GitLab](https://img.shields.io/badge/gitlab-e24329?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![Markdown](https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black)](https://en.wikipedia.org/wiki/Markdown)
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 [![YouTube Studio](https://img.shields.io/badge/YouTube_Studio-ff0000?style=for-the-badge&logo=youtubestudio&logoColor=white)](https://studio.youtube.com/)
@@ -69,23 +80,36 @@ I see this as a trend among many github profiles, so I guess I should have one a
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white)](https://cloud.google.com/)
 [![Adobe Express](https://img.shields.io/badge/Adobe_Express-white?style=for-the-badge&logo=data:image/png;base64,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&logoColor=00005b)](https://express.adobe.com/)
-[![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-white?style=for-the-badge&logo=adobeaftereffects&logoColor=00005b)](https://www.adobe.com/in/products/aftereffects.html)
+
+<!--
+[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
+-->
+
+<!--
+[![GitLab](https://img.shields.io/badge/gitlab-e24329?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
+-->
+
+<!--
 [![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+-->
+
+<!--
+[![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-white?style=for-the-badge&logo=adobeaftereffects&logoColor=00005b)](https://www.adobe.com/in/products/aftereffects.html)
+-->
+
+<!--
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
 [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+-->
 
 <details>
 <summary><strong>Categorised list 📃</strong></summary>
 
 #### Programming & Other Languages
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)\
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 [![Markdown](https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=black)](https://en.wikipedia.org/wiki/Markdown)
 
 #### Databases
@@ -98,14 +122,12 @@ I see this as a trend among many github profiles, so I guess I should have one a
 [![SSH](https://img.shields.io/badge/SSH-black?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Secure_Shell)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-010409?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![GitHub Actions](https://img.shields.io/badge/github_actions-010409?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![GitLab](https://img.shields.io/badge/gitlab-e24329?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)\
+[![GitHub Actions](https://img.shields.io/badge/github_actions-010409?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)\
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 [![YouTube Studio](https://img.shields.io/badge/YouTube_Studio-ff0000?style=for-the-badge&logo=youtubestudio&logoColor=white)](https://studio.youtube.com/)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
 [![Adobe Express](https://img.shields.io/badge/Adobe_Express-white?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAB9CAMAAABd7Js+AAAB71BMVEUAAAALEh4LEh4KEh4LEh4LEh4LEh4LER0LER0LEh4KEh4LEh4LEh6NcLPvICV/c7a9aqv52Bt1fLzLZqdKiMhZhcX/zhWkbq+tba4+isubbrBsfr//vBfs3CoaFyDlVpPvLiRjgsIUHS7g2zHvIEDE1T37ohyhzEfaXaDUaJ/3iSHuJ1XT2Tj2eyT4lR//xBZtwFCTykrvOiXtHjLzXiuzaqyDerq20kLxTSaZdLR/xE6IxkwtGiT+sx30cCfvRCc1jMz1gUXwWCX8rBrpTYvvN2/sR4PvMGRjvFHybE/0aCbtPnlau1J2wk/5nC/8qSjsVoLwR2yt0EVHGSMbJSLxZl/wSFXzaDwnJTvuKjBmaqTgY5TjZ4rpZH88LEfvLUL0dTfwTTL2hzBQdK/vWHPwUGPyWFPwSUDvOTmAaajaa5XvSHrvNVnvOUvyWUL4kzorMiJCOCA4ebJZYJJzV4vsZXJBOFpQfjtpR3IhQmTCISxhSCEaNVBPnEgqSi6TISY1hMCUXJRXOlyVRD53JTCqICjaHyd5Xh4zbqOuUX+NSHacK048bDiRojfZfi7GUi1ZIix6fitHUierkB+Vdh3jtBi6XpgtVoDUYGVvOFuIuEVom0G8uC1baC28dCPhnB7FnhvFTIbGMV6cXizcxiN8m4xfAAAADHRSTlMA4XUu7cOqE0zWjz4cIi54AAAGuElEQVRo3uzSyw3CMBBF0ZnxL58nl5Am2KYLd5NNNiRrSgYJJEsJkEVkj5A4Dbwre2gj9OIdWxRg2XnpA31jxFkUZZ2Yz/MdowLu3icEYVTCEmjHeFTkDW00Lapqm80+ozJu9Pb3BaaFgtbQS/BQ4QM9CZTI6wMYGvIndFDT6T4AwEbtAvIVBAdFLlBvocj2JFAl5KHKk4MqRwxVTBaqLEHZP+C3A4YxPYwDTjgRkOZpXWOM6zSno4YCAWlZY7bcviUUCBiuz/lsHvFBiYBxuVzixpRw6HxA3t8V3Gmng540oigMw3/gLkxma2aIIWYqgSaEhYtRg4AESUaIpVNTUCSCjVWsC5JGFqZiY5AETdo0sNGqf7Tnu/dypaNLzguz/h5OmMj5mzfgANgX0egrQSTypoAFcBUNAyK0T12IV3EAvPMo+l+AkpFtEYoBgAOEAHo+mVz7KUJxALzzWEig9yEInYAFcBejtGAH8zI5v7Yc+hdwAOxBzAh2qJd52l++9cRULIBtzCvB3p4SJPXPR1diKhbAIB/LS8EeBYFaV/vr67e2eIkD4D3lKSP4gtT1sU/dCRML4CqXy6Pj4+OTkxPM0/q+XEepVE+YOAD2Uw5pAQiHh/toWc2nNtfNm8gCuCsWc0UQtOCQwn4qpeYpcwIOgD0oUhCUc+WPMghSsk3sr8bNm8gB2C5ubEgC7ZfLTQlot9sKgHkq3hUyFsBgQ/aVKitBq9WWggDrmI/H722BOADeYzZrCLTfbLZaEARBsBmoeXQmEAdg7GRlJQgOygdSUGgFyMwvLT0LxACw+47jZB1JKJUOqGal0ioUCkFQX62vqnlqiBNwAHaxrwglJeiQoEKCOqXn0bUQLIAbAriODoJOB/sK0JjMJxKJoSc4AJ8eXXeyXy05pVqtowXpdD3daOh51GUBjF1kDLUaBKNRRe83zPzi4r3NAFjoY5w+rvuZqlarJOh5Xo8AaQWQ6+jhjAFwadE0HvedEYw8IexbBfD1PJ7M79kD7BvLsjSAkoLajaC6tH966mNelclkHr7NHLD7x1LRPjo6OqpWdwXlDWn/NOFP5qmVletZA+zvlkkBqP6CQD3a931/an5+/u+HGQM8dQDXAEC4FLKzIfa3MK/WUXfGgEtrqjlrDoK+p6/zTPP+1hbmJ/vvf9kzBSz8wCw+9EUgjIWu+4/1sudpHIbj8BcwKuWAQguWGoS6MFwHinroJMYOsKAMEUMWpmwpREkRpaIsoBMdKPSQeLlj4IPez/5bdpIek/3E6lTpefx30hcEAGMHs77TgHCRQAKBhN8BU/h/yL+h/aurq09OAwaLc3z7ZYZ8a7YPO/RgFjsMCGow7splCJkm/lvSg+qtwwAzABMx9pjh6SfZjb5a/fCdBXjjXQX0a4oblqM/o6PXelEwdRaQrsFNwLwrr3HAcvBHrYcZesGjqwCerOWpSQaswOUG/BLYic3PvqOAsFbSg3rICvgfZFe736xuggdHAYOyHiScFbnF1skOPZbgzXcSEIwhhNvYu91uykrEM9ID0m+BdycBN2Q1drCQsjJP2q78YMIdBHhJPYe0gyTgAmbof0o7UPqdnZ3tqYOAsF6vyUsi9FidTnQuuQi4fhLJrvXwbz/YB/DCABYk8HeWQKPZXDl9DhhxuUVyrQet2DogiPL2rrg62o+AlZXTIZP4b2Q3+r29vXfrgIHaNdnxWtH+hvQvL5+pggdlN/rj44lvGeAlCwUqyg+98oM7j57EN2MnfavVnloGpJDWsZQeFPZPAesXagRkV/qW5JVbBfAkt3n4AfRl/7oaQd/YSd9ut19iq4Agyk8fCcKP1Sz416+HlDvJ69uS/XurgDDKjR9rCWtu/0CdwVTYjX5fkFkFpPndgy/8ByrAn6ijJ/sPQWY9gQoura8of7PgRwDxXtIfHR1l9vcAuekAGvkHEJAf9wARvxg95N+B3T3gJXT6pAfkpwDtPzjzmCKDXm4edklvZPk5YE5fJDTgnx/AwbN+/+gFfq3v9XpX3C7AO6Hx0/kD8s8NQJPJ7ZMdHI5svwvCSPtp/v+5Ay6YwX+l7Qs5uLf/PZBG5gDKAzB+Q/xK/kNBxl38JjyPpJ4mUA64vhuyIn7WQ4DQX424m/8F6eD8RHOqOBPcPQ89Nsfo/gpkI9/dv2P+r307tAEAhIEougszdf9ZEDiSOpLXkKtGHP6/1Vz3vur+/JcVTQZkQAa8OF9U8qaUV7W8K+ZlNW/LeV3PfYEXFtyYIOZ0lM0MZ+SlFbdmXtt5b+jFpTenXt16dzxAXhN7vgHxD5OZ6Y6ZngAAAABJRU5ErkJggg==&logoColor=00005b)](https://express.adobe.com/)
-[![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-white?style=for-the-badge&logo=adobeaftereffects&logoColor=00005b)](https://www.adobe.com/in/products/aftereffects.html)
 
 #### AI
 [![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-white?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAMAAADQmBKKAAABtlBMVEX///9ChfQPnVj8vAPqQzX6uwE+g/Q6gfMMnFfpPC4ImlPpQzUEmVD6uADqQDL6/P/uQC//vAAGm1n//fxIifPy9/74/PvI2/s7h/p2pvc7r3b++vq60/o+hff+9PRSj/To9u8mpmfrSDr6whxhmfX5zcmo3MP96a0aoWD7zUb7yDL6vArr8v3//PXw+fVmnPXf8un+99/74N74xL/95qNPt4TubWLX5fyKs/f++/DE59ac17v3vLeIzqzxiYEzq3Hvd23tY1gcnVDrVUnrT0He6v2wzfzA1vulxfmTufj0+vdtn/X++ejM6tu749C04Mv+8cqu3sX97sL967f0pJ1pwZdgvZD0lo1Fs32sWHf81mX70lb6xSj6vxHm7/3S4vusyfmewfmArfdblfRGgev86+rU7eH62NX+89OV07WBy6eEaadyxZ3934j83H392G3CUWHsX1PfRkBtqDT85eNOfuNZetf509Btc8H5tq71q6X94pSVY5RZu4vxhXvRTFA0oUlQpT+JrCuksCC1shzItRThuAzuugf/7+rdxdPc3Zy5c41OsG3aXFy1uDTlvBqgrRrVthCBHlyHAAAE8ElEQVR42uzBgQAAAACAoP2pF6kCAAAAAGD26q41jSAKA/BxkDpzZlmlAdm4UVSqeFFsULQQjUYSepESQyAavSwYQ0wuYkiaJvTjtqX0P3eLheHo7o7GNVc+P2B5mfOePWtrayu2UcrVyyUbPB0Oj/PtbXghdr2aNYXItk5T4Co9ajJELPTycXgBuaoQppTSyTTOgYvjjIH8H8TeDqzaXUMKGZ6QIluGGXmG7D+OrLPawaVOD4QZVsRBCaYcFZAp3CjsFmFlyi0nDiH2bCDiFYMRaDRPYDUu9oSTh5JmDog2ckZxxMoRBO/8LDspDyUaQHQMpqgqXQddJftxX70OCdSyycQSyFxwI3N5GPSqh12JffIzKmaQuUIjcQxBKX1Xqz7N1AVSc+PfhoGvun5kTWQE/QWM0rC0+pjE0ZW6q0rtWqVaPOhVp6QoA5FHznyoaxLYqlOiagNRVGtGBHFNUk9q1T2I7ANMaTP3RPSaBLbqlAjXYUaNuyai1yQfDWTVKVPsl8HFScbgukhYWaxKP53yxMK+gaTInp2Dq/Q100XixiLXxP71u9+/uY3FTOn9OmLvAjwdVZBs21LXJLr1cRCxrOT91Y9YTEqPPK0y+DpJGKpKS12Tt5uRyKuQI2kNvt6qRyJxDp5SoFHcLWjnhthNa/O8mcSZRPrclzORpAg37mAO2x2mn1tCkyi66eRRkskvN3Ru0inPA8xpx6mSLlElDn62nDyEFSJVMsW4vgFzi+abBtckqvl+4F0kNM26n1RpUp7TFCwkPdJUCRN+u/Y+RB5IVcl0IkkhGyVY2LDL/arE+Q54+0AnRqskqjl4lnYP0Wdml+DtkwpEWYOrP48b8EzxWuY19wy0qwnkwfrbjt20phFFYQA+Rs69Q2AY1DGDRXChVNSICIK6FYyKKdi48yNa3bhJXLgMhbZJUyilH/+40yZwnc87M+ruPL/gZe45971M7kqDiNp3v3adpBIh0FIEcmC8ZkAUqcZMTSS+flYUJfSaLRiL+SRiqy6ENiohxjGeiD99cvtIytk7v7Uv8JgPxvVBGkKpbysqxk1mpG9fXM7t/M0FSNbMP9I6G2KUqg95M84LNCM9785skZTzt/LqkEQaBh6lcdmMIyD+G6Vk0jJBHy8k5VqTJ4q1Ao3SZor7cV7PDR/FKIly9ZFuMXkkvS8dpev7uWrLsz9Kinh+SBniI3lHKmRlq+6II0bpz66jJJPnnR/vA3b0MieNxFmmCZ5uSiKO20dKPD89/v75vQpBXQ70AOc2uPRY9cnLqvtEMjNt6xBGM8O49NxyrudWFKvuBbE0grB6hQDntgSHBkrjqOVilKJO96WjxJjhGJ8KyuLk79oQzW0rJonEC7b9r5ZVSRyc1CG6xZBL2i1rGyDJOKulGziIll37fiS+Aoup6htn1kjBodIf/K4AXtCsJ4Y+ceb313AM3ZX3FcByliFq5z0DqTjdwLEYQ84iBhKrPoYj0q48rgBe0ywdVkaPVX8I2BOHtglvgcVEdYtT2UYbHnmbSG/GMaKzJ6ZheyJ6m/CMBhapkursCTgZzdYmTG+CzWiOUXvi8Dbhes+lXCu4NzyiJ05m8f8XG2OM87Xh9/xAFUVPnJLWy+iMM73WT3s9p2cVRJyXxCPj1G6NrNHVwFN1U2yM60AIIYQQQgghhBBCCCGEEHJifwHeN7G06ib5CQAAAABJRU5ErkJggg==&logoColor=white)](https://aistudio.google.com/)
@@ -131,14 +153,16 @@ I see this as a trend among many github profiles, so I guess I should have one a
 
 #### Code Editors
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 
 #### Currently Learning
-[![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 </details>
 
-<!--[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/)-->
+<!--
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/)
+-->
 
 ---
 

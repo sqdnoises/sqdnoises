@@ -170,6 +170,7 @@ I added this because LISTS ARE COOL!!1!11 💯💯😎😎\
 
 ### Public Repositories
 
+[![discord.py-bot-template](https://github-readme-stats.vercel.app/api/pin/?username=sqdnoises&repo=discord.py-bot-template&show_owner=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000)](https://github.com/sqdnoises/discord.py-bot-template)
 [![infinite-craft](https://github-readme-stats.vercel.app/api/pin/?username=sqdnoises&repo=infinite-craft&show_owner=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000)](https://github.com/sqdnoises/infinite-craft)
 
 ### My Github Statistics

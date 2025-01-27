@@ -3,11 +3,15 @@ Welcome to my GitHub profile!\
 I code mainly in **Python <img src="https://python.org/favicon.ico" alt="Python" height="12">**.\
 I make discord bots, fun little projects and just mess around with some code. 🙃
 
-Connect with me on Discord:\
-[![](https://discord.c99.nl/widget/theme-1/1077982815070728223.png)](https://discord.com/users/1077982815070728223)\
-**Username:** `@sqd.`\
+### Connect with me on Discord:
+[![Discord Presence](https://lanyard.cnrad.dev/api/1077982815070728223?showDisplayName=true&hideBadges=true)](https://discord.com/users/1077982815070728223)\
+**Username:** `@sqd.`
+
 [![Discord Server](https://img.shields.io/badge/My_Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sAecE3YVEe) 👇\
-[![Discord invite](https://invidget.switchblade.xyz/FF2fSN2sJd)](https://discord.gg/FF2fSN2sJd)
+[![Discord Invite](https://invidget.switchblade.xyz/FF2fSN2sJd)](https://discord.gg/FF2fSN2sJd)
+
+<!-- Old style
+[![Discord Presence](https://discord.c99.nl/widget/theme-1/1077982815070728223.png)](https://discord.com/users/1077982815070728223) -->
 
 <details>
 <summary><strong>My Journey</strong></summary>
@@ -37,12 +41,10 @@ Connect with me on Discord:\
 Plans for future:
 - Learn how to make a website using a web framework
 - Make a good feature-rich website
-- Learn Java
 - Make a popular public discord bot
-- Learn mobile app development
 - Learn low-level languages
 - Contribute on other github repositories
-- Start doing leetcode
+- Do leetcode
 
 </details>
 
@@ -169,14 +171,15 @@ I added this because LISTS ARE COOL!!1!11 💯💯😎😎\
 ---
 
 ### Public Repositories
-
-[![discord.py-bot-template](https://github-readme-stats.vercel.app/api/pin/?username=sqdnoises&repo=discord.py-bot-template&show_owner=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000)](https://github.com/sqdnoises/discord.py-bot-template)
-[![infinite-craft](https://github-readme-stats.vercel.app/api/pin/?username=sqdnoises&repo=infinite-craft&show_owner=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000)](https://github.com/sqdnoises/infinite-craft)
+[![discord.py-bot-template](https://github-readme-stats.vercel.app/api/pin/?username=sqdnoises&repo=discord.py-bot-template&show_owner=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/sqdnoises/discord.py-bot-template)
+[![infinite-craft](https://github-readme-stats.vercel.app/api/pin/?username=sqdnoises&repo=infinite-craft&show_owner=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/sqdnoises/infinite-craft)
+<!-- Example:
+[![example](https://github-readme-stats.vercel.app/api/pin/?username=sqdnoises&repo=example&show_owner=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/sqdnoises/example)
+-->
 
 ### My Github Statistics
-| Overall Statistics | Top Languages (according to my public repositories) |
-| ------------------ | --------------------------------------------------- |
-| <div align="center">[![SqdNoises's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqdnoises&count_private=true&show_icons=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000)](https://github.com/sqdnoises)</div> | <div align="center">[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sqdnoises&layout=compact&langs_count=10&hide=css&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000)](https://github.com/sqdnoises)</div> |
+[![SqdNoises's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqdnoises&count_private=true&show_icons=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000&hide_border=true&text_bold=false&card_width=467)](https://github.com/sqdnoises)\
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sqdnoises&layout=compact&langs_count=10&hide=css&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000&hide_border=true&card_width=467)](https://github.com/sqdnoises)
 
 <div align="center">
 

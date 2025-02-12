@@ -1,5 +1,4 @@
-<img width="2500" alt="Intro" src="https://github.com/user-attachments/assets/da10a172-b942-40a9-a824-cbd207d28906" />
-
+<img width="2500" alt="Intro" src="https://github.com/user-attachments/assets/61082e7b-5529-4d55-b1df-83ae2489586f" />
 <img width="2500" alt="About me" src="https://github.com/user-attachments/assets/862c76e3-d3a7-4320-b16e-e96e54100d2b" />
 
 <details>
@@ -13,6 +12,8 @@
 - Do leetcode
 
 </details>
+
+(ur looking at an in-dev readme)
 
 ### List of technologies 💯💯💯💯
 I added this because LISTS ARE COOL!!1!11 💯💯😎😎\
@@ -145,8 +146,8 @@ I added this because LISTS ARE COOL!!1!11 💯💯😎😎\
 [![SqdNoises's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqdnoises&count_private=true&show_icons=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000&hide_border=true&text_bold=false&card_width=467)](https://github.com/sqdnoises)\
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sqdnoises&layout=compact&langs_count=10&hide=css&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000&hide_border=true&card_width=467)](https://github.com/sqdnoises)
 
-<div align="center">
+---
 
-### <img src="profile picture.png" height=16> Follow me and star my repositories and show some love 💖
-
-</div>
+<img width="2500" alt="Intro" src="https://github.com/user-attachments/assets/61082e7b-5529-4d55-b1df-83ae2489586f" />
+<img width="2500" alt="About me" src="https://github.com/user-attachments/assets/862c76e3-d3a7-4320-b16e-e96e54100d2b" />
+<img width="2500" alt="Availability" src="https://github.com/user-attachments/assets/de614d85-69ef-4483-86ed-8c0faa3f0b42" />

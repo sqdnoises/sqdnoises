@@ -1,7 +1,4 @@
-# Hi! I'm sqd. 🙋‍♂️
-Welcome to my GitHub profile!\
-I code mainly in **Python <img src="https://python.org/favicon.ico" alt="Python" height="12">**.\
-I make discord bots, fun little projects and just mess around with some code. 🙃
+<img width="1500" alt="Intro" src="https://github.com/user-attachments/assets/101a1ee4-200b-49a9-bd0f-a3d3e039d888" />
 
 ### Connect with me on Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/1077982815070728223?showDisplayName=true&hideBadges=true)](https://discord.com/users/1077982815070728223)\

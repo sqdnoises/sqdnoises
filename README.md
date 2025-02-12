@@ -1,42 +1,11 @@
-<img width="2500" alt="Intro" src="https://github.com/user-attachments/assets/873165c8-d25b-4b56-a873-d40c27a605bc" />
+<img width="2500" alt="Intro" src="https://github.com/user-attachments/assets/da10a172-b942-40a9-a824-cbd207d28906" />
 
-### Connect with me on Discord:
-[![Discord Presence](https://lanyard.cnrad.dev/api/1077982815070728223?showDisplayName=true&hideBadges=true)](https://discord.com/users/1077982815070728223)\
-**Username:** `@sqd.`
-
-[![Discord Server](https://img.shields.io/badge/My_Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sAecE3YVEe) 👇\
-[![Discord Invite](https://invidget.switchblade.xyz/FF2fSN2sJd)](https://discord.gg/FF2fSN2sJd)
-
-<!-- Old style
-[![Discord Presence](https://discord.c99.nl/widget/theme-1/1077982815070728223.png)](https://discord.com/users/1077982815070728223) -->
+<img width="2500" alt="About me" src="https://github.com/user-attachments/assets/862c76e3-d3a7-4320-b16e-e96e54100d2b" />
 
 <details>
-<summary><strong>My Journey</strong></summary>
+<summary><strong>Plans for future</strong></summary>
 
-- **Discord - joined in 2018**
-  - level: expert
-- **Python - started in 2021**
-  - level: advanced
-  - made many countless projects in python
-  - ~~my first words were hello world don't mess~~
-- **discord.py - started in 2021**
-  - level: expert
-  - made many bots in discord.py
-- **backends in python - since 2022**
-  - level: beginner
-  - only made simple projects that require simple backends
-- **SQLite3 database handling - since 2023**
-  - level: beginner
-  - used in a few bots for storing user data
-- **AI services (OpenAI, Google AI Studio) - since 2023**
-  - level: intermediate
-  - created an discord AI chatbot like Clyde and some misc projects
-- **HTML, CSS, JS - since 2024**
-  - level: beginner
-  - currently learning
-
-Plans for future:
-- Learn how to make a website using a web framework
+- Code, Code and Code.
 - Make a good feature-rich website
 - Make a popular public discord bot
 - Learn low-level languages
@@ -44,8 +13,6 @@ Plans for future:
 - Do leetcode
 
 </details>
-
-I'm just a student who loves to spend time on computers who is currently trying to learn more and expand their knowledge and abilities even more.
 
 ### List of technologies 💯💯💯💯
 I added this because LISTS ARE COOL!!1!11 💯💯😎😎\

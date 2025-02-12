@@ -1,4 +1,4 @@
-<img width="1500" alt="Intro" src="https://github.com/user-attachments/assets/101a1ee4-200b-49a9-bd0f-a3d3e039d888" />
+<img width="2500" alt="Intro" src="https://github.com/user-attachments/assets/873165c8-d25b-4b56-a873-d40c27a605bc" />
 
 ### Connect with me on Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/1077982815070728223?showDisplayName=true&hideBadges=true)](https://discord.com/users/1077982815070728223)\

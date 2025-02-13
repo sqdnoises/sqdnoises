@@ -42,8 +42,10 @@
 </details>
 
 **Discord:** `@sqd.` / `sqd#6948`\
+(Or [directly view my profile on Discord](https://discord.com/users/1077982815070728223), which would load if you are in a mutual server with me)
+
 **Discord Server:** https://discord.gg/FF2fSN2sJd
-<br>
+
 [![Discord Invite](https://invidget.switchblade.xyz/FF2fSN2sJd)](https://discord.gg/FF2fSN2sJd)
 
 <details>

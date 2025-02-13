@@ -194,6 +194,8 @@ I added this because LISTS ARE COOL!!1!11 💯💯😎😎\
 [![SqdNoises's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sqdnoises&count_private=true&show_icons=true&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000&hide_border=true&text_bold=false&card_width=467)](https://github.com/sqdnoises)\
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sqdnoises&layout=compact&langs_count=10&hide=css&title_color=1DB954&icon_color=1DB954&text_color=ffffff&bg_color=000000&hide_border=true&card_width=467)](https://github.com/sqdnoises)
 
+[Back to Top ⬆️](#top)
+
 ---
 
 <div align="center">

@@ -52,7 +52,7 @@
 - Code, Code and Code.
 - Make a good feature-rich website
 - Learn low-level languages
-- Contribute on other github repositories
+- Contribute on other GitHub repositories
 - Do leetcode
 
 </details>

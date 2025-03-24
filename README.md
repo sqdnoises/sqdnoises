@@ -24,7 +24,14 @@
 <details>
 <summary>AI Integration</summary>
 
-![AI Integration showcase](assets/AI%20Integration%20showcase.png)
+Chat with AI\
+![chat with AI](https://github.com/user-attachments/assets/a742b3de-bb76-40b5-bd7e-8017e5e354e2)
+
+Search with AI\
+![search with AI](https://github.com/user-attachments/assets/5ae6cfdc-8d93-41f2-a3f7-0f2ac2486910)
+
+And view AI's thoughts\
+![view response info](https://github.com/user-attachments/assets/e53ca18d-2f80-4428-bb62-719ccd3826a0)
 
 </details>
 

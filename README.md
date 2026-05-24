@@ -22,5 +22,5 @@ Contact me on **Discord**: `sqd#6948` / `sqd.`
 ---
 
 <div align="center">
-<h3><img src="profile picture.png" height=16> Follow me and star my repositories and show some love 💖</h3>
+<h3>⭐ Star my repositories to show some love 💖</h3>
 </div>

@@ -5,7 +5,7 @@ Open for commissions. Websites, Discord bots, Minecraft server hosting, Minecraf
 
 Contact me on **Discord**: `sqd#6948` / `sqd.`
 
-**Discord Server:** https://discord.gg/FF2fSN2sJd
+» https://discord.gg/FF2fSN2sJd
 <br>
 [![Discord Invite](https://invidget.switchblade.xyz/FF2fSN2sJd)](https://discord.gg/FF2fSN2sJd)
 

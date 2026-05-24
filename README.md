@@ -1,7 +1,7 @@
 # 👋 hey, i'm sqd.
 
-I'm a young developer who loves to code.\
-Open for commissions. Websites, Discord bots, Minecraft server hosting, Minecraft plugins, Automations, and so much more.
+I build cool stuff for the web, Discord, and Minecraft. I'm a big fan of writing code that actually solves problems.\
+I'm open for commissions right now. Need a custom website, a Discord bot, or a Minecraft server set up? I can help you build it, and much more.
 
 Tech stack:\
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)

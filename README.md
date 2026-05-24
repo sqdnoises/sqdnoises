@@ -3,7 +3,7 @@
 I'm a young developer who likes to code.\
 Open for commissions. Websites, Discord bots, Minecraft server hosting, Minecraft plugins, Automations, and so much more.
 
-Contact me on **Discord**: `sqd#6948` / `sqd.`\
+Contact me on **Discord:** `sqd#6948` / `sqd.`\
 <sub><sup>OR</sup></sub>\
 » https://discord.gg/FF2fSN2sJd
 <br>

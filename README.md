@@ -22,7 +22,7 @@ Contact me on **Discord:** `sqd#6948` / `sqd.`\
 <br>
 [![Discord Invite](https://invidget.switchblade.xyz/FF2fSN2sJd)](https://discord.gg/FF2fSN2sJd)
 
-[![SqdNoises's GitHub Stats](profile/stats.svg)](https://github.com/sqdnoises)\
+[![SqdNoises's GitHub Stats](profile/stats.svg)](https://github.com/sqdnoises)
 [![Top Languages](profile/top-langs.svg)](https://github.com/sqdnoises)
 
 ---
